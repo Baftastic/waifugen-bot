@@ -1,5 +1,7 @@
 # AIYA
-
+## Planned features for this fork
+- Credit System, based on Discord roles
+- Load balancing, specifying multiple instances
 A Discord bot interface for Stable Diffusion
 
 <img src=https://raw.githubusercontent.com/Kilvoctu/kilvoctu.github.io/master/pics/preview.png  width=50% height=50%>
